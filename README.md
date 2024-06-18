@@ -76,7 +76,7 @@ __Thêm dữ liệu vào các bảng__
 
 ![image](https://github.com/Trungdung090/BTL_SQL/assets/168762836/ee31e5a5-551d-43c4-b8e9-317e5caaab42)
 
-## XÂY DỰNG CÁC THỦ TỤC
+## XÂY DỰNG CÁC THỦ TỤC THEO CÁC CHỨC NĂNG
 1. Quản lý việc bán hàng
 - Thêm, sửa, xoá sản phẩm
 - Tìm kiếm sản phẩm, lọc sản phẩm theo các tiêu chí của người quản lý hoặc của khách hàng
@@ -90,31 +90,31 @@ __Thêm dữ liệu vào các bảng__
 
 ----
 
+1.	Tìm kiếm thông tin khách hàng
+
+![image](https://github.com/Trungdung090/BTL_SQL/assets/168762836/2e2a700c-9584-4798-bafd-076ed69d9358)
+
+2.	Tìm kiếm sản phẩm
+
+![image](https://github.com/Trungdung090/BTL_SQL/assets/168762836/6db34329-b77b-43a9-93f1-750b5583e8ca)
+ 
+3.	Chỉnh sửa hóa đơn
+
+![image](https://github.com/Trungdung090/BTL_SQL/assets/168762836/c497e213-8721-4803-9832-3506f5596d09)
+
+4.	Xóa sản phẩm
+
+![image](https://github.com/Trungdung090/BTL_SQL/assets/168762836/cb9b1a97-1b64-4643-9288-7694d438b440)
+
+5.	Xem chi tiết một sản phẩm
+
+![image](https://github.com/Trungdung090/BTL_SQL/assets/168762836/ca4421f9-8a2f-43ec-b73e-0a6ea0cd1146)
+
+__FUNCTION__
 1.	Liệt kê sản phẩm bán được trong một ngày
 
 ![image](https://github.com/Trungdung090/BTL_SQL/assets/168762836/cb5e67e0-0f74-4ab0-b27b-98eaf2fcec27)
 
-2.	Tìm kiếm thông tin khách hàng
-
-![image](https://github.com/Trungdung090/BTL_SQL/assets/168762836/2e2a700c-9584-4798-bafd-076ed69d9358)
-
-3.	Tìm kiếm sản phẩm
-
-![image](https://github.com/Trungdung090/BTL_SQL/assets/168762836/6db34329-b77b-43a9-93f1-750b5583e8ca)
- 
-4.	Tính tổng tiền hóa đơn
+2.	Tính tổng tiền hóa đơn
 
 ![image](https://github.com/Trungdung090/BTL_SQL/assets/168762836/39480b42-fc4e-48cb-8ef7-4e0d72c5dce6)
-
-5.	Chỉnh sửa hóa đơn
-
-![image](https://github.com/Trungdung090/BTL_SQL/assets/168762836/c497e213-8721-4803-9832-3506f5596d09)
-
-6.	Xóa sản phẩm
-
-![image](https://github.com/Trungdung090/BTL_SQL/assets/168762836/cb9b1a97-1b64-4643-9288-7694d438b440)
-
-7.	Xem chi tiết một sản phẩm
-
-![image](https://github.com/Trungdung090/BTL_SQL/assets/168762836/ca4421f9-8a2f-43ec-b73e-0a6ea0cd1146)
-
