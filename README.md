@@ -5,13 +5,13 @@
 + Lớp: K57KMT.01
 
 ## Mô tả bài toán: 
-1. Quản lý sản phẩm
+__1. Quản lý sản phẩm__
 - Thêm, sửa, xoá sản phẩm
 - Tìm kiến, lọc sản phẩm theo các tiêu chí của người dùng
 - Xem thông tin chi tiết từng sản phẩm
 - Xem số lượng tồn kho của mỗi sản phẩm
 
-2. Quản lý nhà cung cấp
+__2. Quản lý nhà cung cấp__
 - Thêm, xóa, sửa thông tin nhà cung cấp
 - Theo dõi và quản lý các đơn hàng nhập từ nhà cung cấp.
 
