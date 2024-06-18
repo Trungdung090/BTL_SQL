@@ -2,17 +2,17 @@
 
 + Tác giả: Đặng Trung Dũng
 + Mssv: K215480106138
-+ Lớp: K57KMT01
++ Lớp: K57KMT.01
 
 ## Mô tả bài toán: 
 1. Quản lý sản phẩm
-- Thêm, sửa đổi, xoá sản phẩm
+- Thêm, sửa, xoá sản phẩm
 - Tìm kiến, lọc sản phẩm theo các tiêu chí của người dùng
 - Xem thông tin chi tiết từng sản phẩm
 - Xem số lượng tồn kho của mỗi sản phẩm
 
 2. Quản lý nhà cung cấp
-- Thêm/xóa/sửa thông tin nhà cung cấp
+- Thêm, xóa, sửa thông tin nhà cung cấp
 - Theo dõi và quản lý các đơn hàng nhập từ nhà cung cấp.
 
 3. Quản lý bán hàng
@@ -21,7 +21,7 @@
 - Xuất hóa đơn: Tạo và in hóa đơn cho khách hàng.
 
 4. Quản lý khách hàng
-- Thêm/xóa/sửa thông tin khách hàng
+- Thêm, xóa, sửa thông tin khách hàng
 - Lưu trữ và truy vấn các đơn hàng đã mua của khách hàng.
 
 Thông tin cụ thể các bảng như sau:
