@@ -33,7 +33,7 @@ Thông tin cụ thể các bảng như sau:
 
 1. Bảng sản phẩm
 
-![image](https://github.com/Trungdung090/BTL_SQL/assets/168762836/40d0d887-f3b0-4e8c-af29-3a85a0176306)
+![image](https://github.com/Trungdung090/BTL_SQL/assets/168762836/a2beee8c-fb66-45f8-905e-20487e15c435)
 
 2. Bảng Nhà Cung Cấp
 
