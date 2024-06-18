@@ -24,7 +24,7 @@
 - Thêm, xóa, sửa thông tin khách hàng
 - Lưu trữ và truy vấn các đơn hàng đã mua của khách hàng.
 
-Thông tin cụ thể các bảng như sau:
+**Thông tin cụ thể các bảng như sau:**
 - Sản phẩm : 🔑Mã sản phẩm, tên sản phẩm, thương hiệu, thông số, giá, số lượng còn lại. 
 - Khách hàng: 🔑 Mã khách hàng, tên khách hàng, số điện thoại, địa chỉ. 
 - Đơn hàng: 🔑 Mã đơn hàng, mã khách hàng, ngày đặt hàng, tổng tiền. 
@@ -53,9 +53,9 @@ Thông tin cụ thể các bảng như sau:
 
 Sơ đồ thực thể liên kết giữa các bảng
 
-![image](https://github.com/Trungdung090/BTL_SQL/assets/168762836/ab3935ee-aff4-4629-8b5a-1329f69eba05)
+![image](https://github.com/Trungdung090/BTL_SQL/assets/168762836/013dc261-d799-4d48-be04-009773308295)
 
-Thêm dữ liệu vào các bảng
+__Thêm dữ liệu vào các bảng__
 1. Bảng sản phẩm
 
 ![image](https://github.com/Trungdung090/BTL_SQL/assets/168762836/390c4bfe-9b84-41ab-b69b-3eb107a44a25)
