@@ -56,23 +56,23 @@ __Sơ đồ thực thể liên kết giữa các bảng__
 ![image](https://github.com/Trungdung090/BTL_SQL/assets/168762836/013dc261-d799-4d48-be04-009773308295)
 
 __Thêm dữ liệu vào các bảng__
-**1. Bảng sản phẩm**
+1. Bảng sản phẩm
 
 ![image](https://github.com/Trungdung090/BTL_SQL/assets/168762836/390c4bfe-9b84-41ab-b69b-3eb107a44a25)
 
-__2. Bảng Nhà Cung Cấp__
+2. Bảng Nhà Cung Cấp
 
 ![image](https://github.com/Trungdung090/BTL_SQL/assets/168762836/66ae8f56-3be6-4563-ae19-517b578c4772)
 
-__3. Bảng khách hàng__
+3. Bảng khách hàng
 
 ![image](https://github.com/Trungdung090/BTL_SQL/assets/168762836/7004f897-bb2c-48c4-837c-71b0040a3958)
 
-__4. Bảng đơn hàng__
+4. Bảng đơn hàng
 
 ![image](https://github.com/Trungdung090/BTL_SQL/assets/168762836/477888ce-d109-4ebd-83c8-31f474fa2ca1)
 
-__5. Bảng chi tiết đơn hàng__
+5. Bảng chi tiết đơn hàng
 
 ![image](https://github.com/Trungdung090/BTL_SQL/assets/168762836/ee31e5a5-551d-43c4-b8e9-317e5caaab42)
 
@@ -84,7 +84,7 @@ __1. Quản lý việc bán hàng__
 - Doanh thu của một ngày, một tháng,...
 - Số lượng sản phẩm bán chạy nhất.
 
-__2. Quản lý kho __
+__2. Quản lý kho__
 - Thống kê số lượng hàng trong kho
 - Báo cáo tình trạng hàng trong kho, số hàng tồn, số hàng đã hết chưa nhập về.
 
