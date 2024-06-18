@@ -33,27 +33,27 @@ Thông tin cụ thể các bảng như sau:
 
 1. Bảng sản phẩm
 
-![image](https://github.com/Trungdung090/BTL_SQL/assets/168762836/3d8f6eec-33ae-4405-a2cc-a0b965315f31)
+![image](https://github.com/Trungdung090/BTL_SQL/assets/168762836/6960ce27-b843-49b7-9b24-6fa20e4124d8)
 
 2. Bảng Nhà Cung Cấp
 
-![image](https://github.com/Trungdung090/BTL_SQL/assets/168762836/6eab7734-8066-4092-9107-70b0462645bf)
+![image](https://github.com/Trungdung090/BTL_SQL/assets/168762836/c0d1d38d-b11c-4f29-8df4-5e45c515b31d)
 
 3. Bảng khách hàng
 
-![image](https://github.com/Trungdung090/BTL_SQL/assets/168762836/0cfda986-6604-4a50-bc2c-4e689248d7ca)
+![image](https://github.com/Trungdung090/BTL_SQL/assets/168762836/d40233b9-3a44-4a1d-a76a-7d817791355c)
 
 4. Bảng đơn hàng
 
-![image](https://github.com/Trungdung090/BTL_SQL/assets/168762836/03d1cf28-3ed3-4b83-b1fe-9c42b6f985f5)
+![image](https://github.com/Trungdung090/BTL_SQL/assets/168762836/467d0517-7250-43d6-bb57-9ef094c50049)
 
 5. Bảng chi tiết đơn hàng
 
-![image](https://github.com/Trungdung090/BTL_SQL/assets/168762836/fa5eb1f6-6a95-472d-b148-1a9fe71f93ce)
+![image](https://github.com/Trungdung090/BTL_SQL/assets/168762836/7180d214-a5e1-44bf-904d-334976075a30)
 
 Sơ đồ thực thể liên kết giữa các bảng
 
-![image](https://github.com/Trungdung090/BTL_SQL/assets/168762836/865bb379-e24e-4d43-b75c-7c7e089ef535)
+![image](https://github.com/Trungdung090/BTL_SQL/assets/168762836/ab3935ee-aff4-4629-8b5a-1329f69eba05)
 
 Thêm dữ liệu vào các bảng
 1. Bảng sản phẩm
