@@ -35,7 +35,7 @@
 
 ![image](https://github.com/Trungdung090/BTL_SQL/assets/168762836/6960ce27-b843-49b7-9b24-6fa20e4124d8)
 
-2. Bảng Nhà Cung Cấ
+2. Bảng Nhà Cung Cấp
 
 ![image](https://github.com/Trungdung090/BTL_SQL/assets/168762836/c0d1d38d-b11c-4f29-8df4-5e45c515b31d)
 
@@ -50,6 +50,9 @@
 5. Bảng chi tiết đơn hàng
 
 ![image](https://github.com/Trungdung090/BTL_SQL/assets/168762836/7180d214-a5e1-44bf-904d-334976075a30)
+
+![image](https://github.com/Trungdung090/BTL_SQL/assets/168762836/7b4b9ba8-4de7-45a3-80be-38366b2c69fd)
+
 
 Sơ đồ thực thể liên kết giữa các bảng
 
