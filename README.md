@@ -54,7 +54,7 @@ __Tạo các bảng như mô tả trong SQL Server:__
 
 ![image](https://github.com/Trungdung090/BTL_SQL/assets/168762836/7b4b9ba8-4de7-45a3-80be-38366b2c69fd)
 
-Sơ đồ thực thể liên kết giữa các bảng
+__Sơ đồ thực thể liên kết giữa các bảng__
 
 ![image](https://github.com/Trungdung090/BTL_SQL/assets/168762836/013dc261-d799-4d48-be04-009773308295)
 
