@@ -29,8 +29,9 @@
 - Khách hàng: 🔑 Mã khách hàng, tên khách hàng, số điện thoại, địa chỉ. 
 - Đơn hàng: 🔑 Mã đơn hàng, mã khách hàng, ngày đặt hàng, tổng tiền. 
 - Chi tiết đơn hàng: 🔑Mã chi tiết đơn hàng, mã đơn hàng, mã sản phẩm, số lượng, giá. 
-- Nhà cung cấp: 🔑Mã nhà cung cấp, tên nhà cung cấp, tên người liên hệ, số điện thoại người liên hệ, địa chỉ. 
+- Nhà cung cấp: 🔑Mã nhà cung cấp, tên nhà cung cấp, tên người liên hệ, số điện thoại người liên hệ, địa chỉ.
 
+Tạo các bảng như mô tả trong SQL Server:
 1. Bảng sản phẩm
 
 ![image](https://github.com/Trungdung090/BTL_SQL/assets/168762836/6960ce27-b843-49b7-9b24-6fa20e4124d8)
@@ -51,8 +52,8 @@
 
 ![image](https://github.com/Trungdung090/BTL_SQL/assets/168762836/7180d214-a5e1-44bf-904d-334976075a30)
 
+Tạo bảng 
 ![image](https://github.com/Trungdung090/BTL_SQL/assets/168762836/7b4b9ba8-4de7-45a3-80be-38366b2c69fd)
-
 
 Sơ đồ thực thể liên kết giữa các bảng
 
